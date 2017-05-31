@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SunCheck</string>
+    <string name="title">SunCheck in London</string>
+    <string name="empty_list_text">No Data Available</string>
+    <string name="humidity">humidity</string>
+    <string name="pressure">pressure</string>
+    <string name="temp_max">Max</string>
+    <string name="temp_min">Min</string>
+</resources>
